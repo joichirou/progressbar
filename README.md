@@ -10,7 +10,7 @@ designing of observer pattern.
 `sh progressbar.sh`
 ![demomovie](https://github.com/joichirou/progressbar/blob/master/doc/demo_movie.gif)
 
-## show progress bar desing list
+## show progress bar design lists
 `python3 progressbar/progressBar.py --test=1`
 
 ---
