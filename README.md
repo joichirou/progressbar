@@ -1,9 +1,10 @@
-# progress bar design customize
+# Progress Bar Design Customize
 this program is progress bar design customize.
+designing of observer pattern.
 
 ---
 
-# how to
+# How To
 ## program test
 `sh progressbar.sh`
 ![demomovie](https://github.com/joichirou/progressbar/blob/master/doc/demo_movie.gif)
@@ -13,6 +14,11 @@ this program is progress bar design customize.
 
 ---
 
-# usage
+# Usage
 * python script.
 * shell script.
+
+---
+
+# LICENCE
+* MIT
